@@ -255,6 +255,7 @@ png("plot_nSongsVsYear.png")
 print(nSongsVsYear)
 dev.off()
 ```
+
 **NOTE:** Again, we only define the plot and print it to file; we want to bring it back in just like before by embedding the pre-made plot in this document:
 ![no. of songs on charts vs. year](plot_nSongsVsYear.png)
 
@@ -419,8 +420,9 @@ Regarding code externalization, I have tried to read in code chunks from my R sc
 
 However, in the analysis and visualizations above, I have embedded pre-existing figures into this R Markdown document as well as imported pre-existing data from files and worked with it.
 
-As of Monday, Oct 21, just before the deadline, I am also working on a Git repository.
 
+~~As of Monday, Oct 21, just before the deadline, I am also working on a Git repository.~~  
+**UPDATE on Monday, Oct 21:** The Git repository is up and running!
 
 
 *Christian Birch Okkels*  

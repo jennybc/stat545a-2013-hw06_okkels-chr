@@ -255,7 +255,7 @@ htmlPrint(read.delim("table_minSongLengthInfoEachYear.txt"))
 ```
 
 <!-- html table generated in R 3.0.1 by xtable 1.7-1 package -->
-<!-- Mon Oct 21 09:14:38 2013 -->
+<!-- Mon Oct 21 16:39:29 2013 -->
 <TABLE border=1>
 <TR> <TH> Year </TH> <TH> Track </TH> <TH> Artist </TH> <TH> TimeInSeconds </TH> <TH> Time </TH>  </TR>
   <TR> <TD align="right"> 1950 </TD> <TD> A Bushel and a Peck </TD> <TD> Margaret Whiting &amp  Jimmy Wakely </TD> <TD align="right"> 120 </TD> <TD> 2:00 </TD> </TR>
@@ -337,7 +337,7 @@ htmlPrint(minSongLengthInfoEachYear[which.min(minSongLengthInfoEachYear$TimeInSe
 ```
 
 <!-- html table generated in R 3.0.1 by xtable 1.7-1 package -->
-<!-- Mon Oct 21 09:14:38 2013 -->
+<!-- Mon Oct 21 16:39:29 2013 -->
 <TABLE border=1>
 <TR> <TH> Year </TH> <TH> Track </TH> <TH> Artist </TH> <TH> TimeInSeconds </TH> <TH> Time </TH>  </TR>
   <TR> <TD align="right"> 1964 </TD> <TD> Little Boxes </TD> <TD> Womenfolk, The </TD> <TD align="right"> 62 </TD> <TD> 1:02 </TD> </TR>
@@ -349,7 +349,7 @@ htmlPrint(maxSongLengthInfoEachYear[which.max(maxSongLengthInfoEachYear$TimeInSe
 ```
 
 <!-- html table generated in R 3.0.1 by xtable 1.7-1 package -->
-<!-- Mon Oct 21 09:14:38 2013 -->
+<!-- Mon Oct 21 16:39:29 2013 -->
 <TABLE border=1>
 <TR> <TH> Year </TH> <TH> Track </TH> <TH> Artist </TH> <TH> TimeInSeconds </TH> <TH> Time </TH>  </TR>
   <TR> <TD align="right"> 1976 </TD> <TD> A Better Place To Be (Live) (Parts 1 &amp  2) </TD> <TD> Harry Chapin </TD> <TD align="right"> 570 </TD> <TD> 9:30 </TD> </TR>
@@ -388,7 +388,7 @@ htmlPrint(read.delim("table_songLengthStatsEachYear2.txt"))
 ```
 
 <!-- html table generated in R 3.0.1 by xtable 1.7-1 package -->
-<!-- Mon Oct 21 09:14:39 2013 -->
+<!-- Mon Oct 21 16:39:30 2013 -->
 <TABLE border=1>
 <TR> <TH> Year </TH> <TH> stat </TH> <TH> songLength </TH>  </TR>
   <TR> <TD align="right"> 1950 </TD> <TD> min </TD> <TD align="right"> 120 </TD> </TR>
@@ -629,6 +629,7 @@ dev.off()
 ##   2
 ```
 
+
 **NOTE:** Again, we only define the plot and print it to file; we want to bring it back in just like before by embedding the pre-made plot in this document:
 ![no. of songs on charts vs. year](plot_nSongsVsYear.png)
 
@@ -650,7 +651,7 @@ htmlPrint(nSongsLongerThanAvgEachYear, digits = 2)
 ```
 
 <!-- html table generated in R 3.0.1 by xtable 1.7-1 package -->
-<!-- Mon Oct 21 09:14:39 2013 -->
+<!-- Mon Oct 21 16:39:30 2013 -->
 <TABLE border=1>
 <TR> <TH> Year </TH> <TH> Count </TH> <TH> Total </TH> <TH> Proportion </TH>  </TR>
   <TR> <TD align="right"> 1956 </TD> <TD align="right">  11 </TD> <TD align="right"> 505 </TD> <TD align="right"> 0.02 </TD> </TR>
@@ -737,7 +738,7 @@ htmlPrint(charts[which.max(charts$nWeeksChart), c("Track", "Artist", "Time",
 ```
 
 <!-- html table generated in R 3.0.1 by xtable 1.7-1 package -->
-<!-- Mon Oct 21 09:14:40 2013 -->
+<!-- Mon Oct 21 16:39:30 2013 -->
 <TABLE border=1>
 <TR> <TH> Track </TH> <TH> Artist </TH> <TH> Time </TH> <TH> Date.Entered </TH> <TH> High </TH> <TH> Date.Peaked </TH> <TH> nWeeksChart </TH>  </TR>
   <TR> <TD> I'm Yours </TD> <TD> Jason Mraz </TD> <TD> 4:03 </TD> <TD> 5/3/08 </TD> <TD> 6 </TD> <TD> 9/20/08 </TD> <TD align="right"> 76 </TD> </TR>
@@ -750,7 +751,7 @@ htmlPrint(charts[which.max(charts$nWeeksChartTop40), c("Track", "Artist", "Time"
 ```
 
 <!-- html table generated in R 3.0.1 by xtable 1.7-1 package -->
-<!-- Mon Oct 21 09:14:40 2013 -->
+<!-- Mon Oct 21 16:39:30 2013 -->
 <TABLE border=1>
 <TR> <TH> Track </TH> <TH> Artist </TH> <TH> Time </TH> <TH> Date.Entered </TH> <TH> High </TH> <TH> Date.Peaked </TH> <TH> nWeeksChartTop40 </TH>  </TR>
   <TR> <TD> I'm Yours </TD> <TD> Jason Mraz </TD> <TD> 4:03 </TD> <TD> 5/3/08 </TD> <TD> 6 </TD> <TD> 9/20/08 </TD> <TD align="right"> 62 </TD> </TR>
@@ -763,7 +764,7 @@ htmlPrint(charts[which.max(charts$nWeeksChartTop10), c("Track", "Artist", "Time"
 ```
 
 <!-- html table generated in R 3.0.1 by xtable 1.7-1 package -->
-<!-- Mon Oct 21 09:14:40 2013 -->
+<!-- Mon Oct 21 16:39:30 2013 -->
 <TABLE border=1>
 <TR> <TH> Track </TH> <TH> Artist </TH> <TH> Time </TH> <TH> Date.Entered </TH> <TH> High </TH> <TH> Date.Peaked </TH> <TH> nWeeksChartTop10 </TH>  </TR>
   <TR> <TD> How Do I Live </TD> <TD> LeAnn Rimes </TD> <TD> 4:18 </TD> <TD> 6/21/97 </TD> <TD> 2 </TD> <TD> 12/13/97 </TD> <TD align="right"> 32 </TD> </TR>
@@ -776,7 +777,7 @@ htmlPrint(charts[which.max(charts$nWeeksChartPeak), c("Track", "Artist", "Time",
 ```
 
 <!-- html table generated in R 3.0.1 by xtable 1.7-1 package -->
-<!-- Mon Oct 21 09:14:40 2013 -->
+<!-- Mon Oct 21 16:39:31 2013 -->
 <TABLE border=1>
 <TR> <TH> Track </TH> <TH> Artist </TH> <TH> Time </TH> <TH> Date.Entered </TH> <TH> High </TH> <TH> Date.Peaked </TH> <TH> nWeeksChartPeak </TH>  </TR>
   <TR> <TD> One Sweet Day </TD> <TD> Mariah Carey </TD> <TD> 4:42 </TD> <TD> 12/2/95 </TD> <TD> 1 </TD> <TD> 12/2/95 </TD> <TD align="right"> 16 </TD> </TR>
@@ -832,7 +833,7 @@ htmlPrint(read.delim("table_longestChartingSongsEachYear.txt"))
 ```
 
 <!-- html table generated in R 3.0.1 by xtable 1.7-1 package -->
-<!-- Mon Oct 21 09:14:41 2013 -->
+<!-- Mon Oct 21 16:39:31 2013 -->
 <TABLE border=1>
 <TR> <TH> Year </TH> <TH> successMeasure </TH> <TH> nWeeks </TH> <TH> Track </TH> <TH> Artist </TH> <TH> songLength </TH>  </TR>
   <TR> <TD align="right"> 1950 </TD> <TD> weeksInTop100 </TD> <TD align="right"> 27 </TD> <TD> The Third Man Theme </TD> <TD> Anton Karas </TD> <TD align="right"> 131 </TD> </TR>
@@ -1085,7 +1086,7 @@ htmlPrint(nSongsChartLongerEachYear, digits = 2)
 ```
 
 <!-- html table generated in R 3.0.1 by xtable 1.7-1 package -->
-<!-- Mon Oct 21 09:14:41 2013 -->
+<!-- Mon Oct 21 16:39:32 2013 -->
 <TABLE border=1>
 <TR> <TH> Year </TH> <TH> Count </TH> <TH> Total </TH> <TH> Proportion </TH>  </TR>
   <TR> <TD align="right"> 1956 </TD> <TD align="right"> 255 </TD> <TD align="right"> 505 </TD> <TD align="right"> 0.50 </TD> </TR>
@@ -1197,8 +1198,9 @@ Regarding code externalization, I have tried to read in code chunks from my R sc
 
 However, in the analysis and visualizations above, I have embedded pre-existing figures into this R Markdown document as well as imported pre-existing data from files and worked with it.
 
-As of Monday, Oct 21, just before the deadline, I am also working on a Git repository.
 
+~~As of Monday, Oct 21, just before the deadline, I am also working on a Git repository.~~  
+**UPDATE on Monday, Oct 21:** The Git repository is up and running!
 
 
 *Christian Birch Okkels*  
