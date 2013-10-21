@@ -1,0 +1,65 @@
+Year	Track	Artist	Time	Date.Entered	nWeeksChart	nWeeksChartTop40	nWeeksChartTop10	nWeeksChartPeak	High	ScorePoints
+1950	The Tennessee Waltz	Patti Page	3:03	11/18/50	26	NA	NA	13	1	
+1951	Cry	Johnnie Ray & Four Lads	3:02	11/24/51	27	NA	NA	11	1	
+1952	You Belong To Me	Jo Stafford	2:56	8/9/52	25	NA	NA	12	1	
+1953	Vaya Con Dios (May God Be With You)	Les Paul & Mary Ford	2:51	6/20/53	31	NA	NA	11	1	
+1954	Oh, That'll be Joyful	Four Lads	2:35	5/1/54	1	NA	NA	NA	30	
+1955	Cherry Pink And Apple Blossom White	Perez Prado and His Orchestra	2:56	3/5/55	26	26	20	10	1	
+1956	Don't Be Cruel	Elvis Presley	2:03	8/11/56	27	23	21	11	1	
+1957	All Shook Up	Elvis Presley	1:58	4/6/57	30	22	15	9	1	
+1958	At The Hop	Danny & The Juniors	2:31	12/9/57	21	18	12	7	1	
+1959	It's Late	Ricky Nelson	1:56	3/2/59	13	10	3	1	9	997
+1960	My Home Town	Paul Anka	2:28	5/23/60	13	9	2	2	8	978
+1961	You Don't Know What You've Got (Until You Lose It)	Ral Donner	2:10	7/10/61	12	9	4	1	4	997
+1962	You Don't Know Me	Ray Charles	3:13	7/28/62	11	9	5	1	2	997
+1963	I Wanna Be Around	Tony Bennett	2:10	1/12/63	16	10	0	1	14	995
+1964	Remember (Walkin' In The Sand)	Shangri-Las, The	2:18	8/22/64	11	9	6	3	5	997
+1965	Child Of Our Times	Barry McGuire	3:00	11/6/65	4	0	0	1	72	99
+1966	Bang Bang (My Baby Shot Me Down)	Cher	2:40	3/12/66	11	9	6	1	2	999
+1967	(Your Love Keeps Lifting Me) Higher And Higher	Jackie Wilson	2:49	8/12/67	12	9	4	2	6	997
+1968	Over You	Gary Puckett	2:22	9/21/68	11	10	4	2	7	998
+1969	Cherry Hill Park	Billy Joe Royal	2:44	10/4/69	15	10	0	2	15	999
+1970	Jingle Jangle	Archies, The	2:45	11/29/69	13	10	1	1	10	999
+1971	She's Not Just Another Woman	8th Day, The	3:00	5/15/71	13	10	0	3	11	995
+1972	Witchy Woman	Eagles	3:53	9/9/72	13	10	2	1	9	995
+1973	The Twelfth Of Never	Donny Osmond	2:40	3/3/73	13	9	4	2	8	997
+1974	My Mistake (Was To Love You)	Diana Ross	2:55	2/23/74	16	10	0	1	19	997
+1975	Bad Luck (Part 1)	Harold Melvin and the Blue Notes	3:10	3/22/75	17	10	0	2	15	997
+1976	Never Gonna Fall In Love Again	Eric Carmen	3:45	5/1/76	15	10	0	2	11	993
+1977	Maybe I'm Amazed	Wings	5:11	2/12/77	13	11	1	1	10	994
+1978	Who Are You	Who, The	3:22	8/26/78	15	9	0	2	14	981
+1979	Ships	Barry Manilow	3:46	10/13/79	14	11	2	2	9	992
+1980	Wait For Me	Daryl Hall & John Oates	3:40	10/27/79	19	10	0	1	18	995
+1981	The Old Songs	Barry Manilow	4:13	10/10/81	16	10	0	2	15	999
+1982	Hot In The City	Billy Idol	3:30	7/3/82	17	9	0	4	23	999
+1983	P.Y.T. (Pretty Young Thing)	Michael Jackson	3:58	10/8/83	16	9	1	1	10	999
+1984	Girls	Dwight Twilley	3:28	2/18/84	16	10	0	1	16	994
+1985	The Goonies 'R' Good Enough	Cyndi Lauper	3:27	5/18/85	15	9	1	1	10	996
+1986	Be Good To Yourself	Journey	3:51	4/12/86	15	10	1	1	9	999
+1987	Mary's Prayer	Danny Wilson	3:52	6/6/87	20	8	0	1	23	992
+1988	Rag Doll	Aerosmith	4:21	6/4/88	17	8	0	1	17	999
+1989	I Won't Back Down	Tom Petty	2:56	4/29/89	15	9	0	1	12	996
+1990	Ooh La La (I Can't Get Over You)	Perfect Gentlemen	4:02	4/14/90	16	9	1	1	10	993
+1991	Love.. Thy Will Be Done	Martika	4:12	8/10/91	15	9	1	1	10	988
+1992	Angel Baby	Angelica	3:57	10/19/91	20	7	0	1	29	992
+1993	Come Inside	Intro	4:07	9/4/93	20	5	0	1	33	984
+1994	Sweet Potatoe Pie	Domino	3:26	4/9/94	19	8	0	2	27	993
+1995	I Wanna B With U	Fun Factory	3:33	7/22/95	20	0	0	2	45	953
+1996	Never Leave Me Alone	Nate Dogg	4:56	11/9/96	19	7	0	3	33	991
+1997	Thinking Of You	Tony! Toni! Toné!	3:52	5/10/97	20	8	0	2	22	995
+1998	A Rose Is Still A Rose	Aretha Franklin	3:58	3/14/98	18	9	0	1	26	998
+1999	Vivrant Thing	Q-Tip	3:12	7/17/99	20	9	0	2	26	998
+2000	Left & Right	D'Angelo	4:35	12/11/99	5	0	0	1	70	99
+2001	Oochie Wally	QB's Finest	5:00	3/3/01	20	9	0	1	26	992
+2002	Down A** Chick	Ja Rule	4:00	4/13/02	19	9	0	2	21	998
+2003	Big Yellow Taxi	Counting Crows	3:47	3/29/03	20	0	0	1	42	999
+2004	Fallen	Sarah McLachlan	3:47	10/25/03	21	0	0	1	41	994
+2005	Chariot	Gavin DeGraw	3:59	4/16/05	20	6	0	2	30	991
+2006	When The Stars Go Blue	Tim McGraw	3:55	4/15/06	20	4	0	1	37	985
+2007	Not Ready To Make Nice	Dixie Chicks	4:01	5/6/06	24	7	1	1	4	991
+2008	Just Got Started Loving You	James Otto	3:55	3/8/08	20	6	0	1	27	988
+2009	That's Not My Name	Ting Tings, The	5:10	12/20/08	26	1	0	1	39	996
+2010	Felt Good On My Lips	Tim McGraw	4:10	11/20/10	20	4	0	1	26	993
+2011	Price Tag	Jessie J	3:42	2/19/11	20	10	0	1	23	998
+2012	Somethin' 'Bout A Truck	Kip Moore	3:36	2/25/12	20	6	0	1	29	994
+2013	Rich As F**k	Lil Wayne	3:43	4/6/13	20	4	0	2	38	999

@@ -1,0 +1,193 @@
+Year	successMeasure	nWeeks	Track	Artist	songLength
+1950	weeksInTop100	27	The Third Man Theme	Anton Karas	131
+1950	weeksInTop40	NA	The Third Man Theme	Anton Karas	131
+1950	weeksInTop10	NA	The Third Man Theme	Anton Karas	131
+1951	weeksInTop100	34	Be My Love	Mario Lanza	208
+1951	weeksInTop40	NA	Be My Love	Mario Lanza	208
+1951	weeksInTop10	NA	Be My Love	Mario Lanza	208
+1952	weeksInTop100	38	Blue Tango	Leroy Anderson & His Pops Concert Orchestra	171
+1952	weeksInTop40	NA	Blue Tango	Leroy Anderson & His Pops Concert Orchestra	171
+1952	weeksInTop10	NA	Blue Tango	Leroy Anderson & His Pops Concert Orchestra	171
+1953	weeksInTop100	31	Vaya Con Dios (May God Be With You)	Les Paul & Mary Ford	171
+1953	weeksInTop40	NA	Vaya Con Dios (May God Be With You)	Les Paul & Mary Ford	171
+1953	weeksInTop10	NA	Vaya Con Dios (May God Be With You)	Les Paul & Mary Ford	171
+1954	weeksInTop100	1	Oh, That'll be Joyful	Four Lads	155
+1954	weeksInTop40	NA	Oh, That'll be Joyful	Four Lads	155
+1954	weeksInTop10	NA	Oh, That'll be Joyful	Four Lads	155
+1955	weeksInTop100	27	Melody Of Love	Billy Vaughn	175
+1955	weeksInTop40	NA	Melody Of Love	Billy Vaughn	175
+1955	weeksInTop10	NA	Cherry Pink And Apple Blossom White	Perez Prado and His Orchestra	176
+1956	weeksInTop100	31	Canadian Sunset	Hugo Winterhalter	170
+1956	weeksInTop40	24	Lisbon Antigua	Nelson Riddle and His Orchestra	153
+1956	weeksInTop10	21	Don't Be Cruel	Elvis Presley	123
+1957	weeksInTop100	39	Wonderful! Wonderful!	Johnny Mathis	167
+1957	weeksInTop40	NA	So Rare	Jimmy Dorsey	150
+1957	weeksInTop10	NA	So Rare	Jimmy Dorsey	150
+1958	weeksInTop100	30	All The Way	Frank Sinatra	170
+1958	weeksInTop40	NA	Chantilly Lace	Big Bopper	140
+1958	weeksInTop10	NA	Patricia	Perez Prado and His Orchestra	138
+1959	weeksInTop100	26	Mack The Knife	Bobby Darin	184
+1959	weeksInTop40	22	Mack The Knife	Bobby Darin	184
+1959	weeksInTop10	16	Mack The Knife	Bobby Darin	184
+1960	weeksInTop100	27	Running Bear	Johnny Preston	153
+1960	weeksInTop40	20	He'll Have To Go	Jim Reeves	136
+1960	weeksInTop10	12	The Theme From A Summer Place	Percy Faith	144
+1961	weeksInTop100	26	Moon River	Henry Mancini, His Orchestra and Chorus	161
+1961	weeksInTop40	18	Exodus	Ferrante and Teicher	174
+1961	weeksInTop10	12	Tossin' And Turnin'	Bobby Lewis	150
+1962	weeksInTop100	23	Limbo Rock	Chubby Checker	142
+1962	weeksInTop40	18	The Twist	Chubby Checker	152
+1962	weeksInTop10	13	The Twist	Chubby Checker	152
+1963	weeksInTop100	20	Up On The Roof	Drifters, The	154
+1963	weeksInTop40	13	Sugar Shack	Jimmy Gilmer	121
+1963	weeksInTop10	10	Sugar Shack	Jimmy Gilmer	121
+1964	weeksInTop100	22	Hello, Dolly!	Louis Armstrong	142
+1964	weeksInTop40	19	Hello, Dolly!	Louis Armstrong	142
+1964	weeksInTop10	13	Hello, Dolly!	Louis Armstrong	142
+1965	weeksInTop100	18	Wooly Bully	Sam the Sham and the Pharaohs	140
+1965	weeksInTop40	14	Wooly Bully	Sam the Sham and the Pharaohs	140
+1965	weeksInTop10	10	I Can't Help Myself	Four Tops	163
+1966	weeksInTop100	21	Born Free	Roger Williams	142
+1966	weeksInTop40	14	Devil With A Blue Dress On & Good Golly Miss Molly	Mitch Ryder	194
+1966	weeksInTop10	12	I'm A Believer	Monkees, The	161
+1967	weeksInTop100	18	Boogaloo Down Broadway	Fantastic Johnny C, The	161
+1967	weeksInTop40	15	To Sir With Love	Lulu	164
+1967	weeksInTop10	10	Daydream Believer	Monkees, The	177
+1968	weeksInTop100	26	Sunshine Of Your Love	Cream, The	183
+1968	weeksInTop40	19	Hey Jude	Beatles, The	431
+1968	weeksInTop10	14	Hey Jude	Beatles, The	431
+1969	weeksInTop100	22	Sugar, Sugar	Archies, The	168
+1969	weeksInTop40	NA	Sugar, Sugar	Archies, The	168
+1969	weeksInTop10	NA	Sugar, Sugar	Archies, The	168
+1970	weeksInTop100	23	Yellow River	Christie	160
+1970	weeksInTop40	NA	Raindrops Keep Fallin' On My Head	B.J. Thomas	182
+1970	weeksInTop10	NA	Raindrops Keep Fallin' On My Head	B.J. Thomas	182
+1971	weeksInTop100	26	I've Found Someone Of My Own	Free Movement, The	225
+1971	weeksInTop40	NA	Knock Three Times	Dawn	176
+1971	weeksInTop10	NA	Joy To The World	Three Dog Night	197
+1972	weeksInTop100	22	I Am Woman	Helen Reddy	188
+1972	weeksInTop40	NA	American Pie (Parts 1 and 2)	Don McLean	516
+1972	weeksInTop10	NA	The First Time Ever I Saw Your Face	Roberta Flack	255
+1973	weeksInTop100	38	Why Me	Kris Kristofferson	205
+1973	weeksInTop40	NA	Why Me	Kris Kristofferson	205
+1973	weeksInTop10	NA	Let's Get It On	Marvin Gaye	238
+1974	weeksInTop100	28	One Hell Of A Woman	Mac Davis	172
+1974	weeksInTop40	NA	Come And Get Your Love	Redbone	210
+1974	weeksInTop10	NA	The Way We Were	Barbra Streisand	209
+1975	weeksInTop100	32	Feelings	Morris Albert	226
+1975	weeksInTop40	NA	Rhinestone Cowboy	Glen Campbell	188
+1975	weeksInTop10	NA	One Of These Nights	Eagles	208
+1976	weeksInTop100	28	A Fifth Of Beethoven	Walter Murphy	182
+1976	weeksInTop40	NA	A Fifth Of Beethoven	Walter Murphy	182
+1976	weeksInTop10	NA	Tonight's The Night (Gonna Be Alright)	Rod Stewart	235
+1977	weeksInTop100	33	How Deep Is Your Love	Bee Gees	210
+1977	weeksInTop40	NA	How Deep Is Your Love	Bee Gees	210
+1977	weeksInTop10	NA	How Deep Is Your Love	Bee Gees	210
+1978	weeksInTop100	40	I Go Crazy	Paul Davis	234
+1978	weeksInTop40	NA	I Go Crazy	Paul Davis	234
+1978	weeksInTop10	NA	Le Freak	Chic	210
+1979	weeksInTop100	27	I Will Survive	Gloria Gaynor	195
+1979	weeksInTop40	NA	Pop Muzik	M	200
+1979	weeksInTop10	NA	Hot Stuff	Donna Summer	227
+1980	weeksInTop100	31	Another One Bites The Dust	Queen	212
+1980	weeksInTop40	NA	Do That To Me One More Time	Captain and Tennille	229
+1980	weeksInTop10	NA	Another One Bites The Dust	Queen	212
+1981	weeksInTop100	32	Jessie's Girl	Rick Springfield	194
+1981	weeksInTop40	22	Jessie's Girl	Rick Springfield	194
+1981	weeksInTop10	15	Physical	Olivia Newton-John	223
+1982	weeksInTop100	43	Tainted Love	Soft Cell	158
+1982	weeksInTop40	22	Hurts So Good	John Cougar	215
+1982	weeksInTop10	16	Hurts So Good	John Cougar	215
+1983	weeksInTop100	32	Baby, Come To Me	Patti Austin	210
+1983	weeksInTop40	21	You And I	Eddie Rabbitt	238
+1983	weeksInTop10	14	Flashdance...What A Feeling	Irene Cara	235
+1984	weeksInTop100	30	Borderline	Madonna	238
+1984	weeksInTop40	NA	What's Love Got To Do With It	Tina Turner	229
+1984	weeksInTop10	NA	When Doves Cry	Prince	229
+1985	weeksInTop100	29	I Miss You	Klymaxx	244
+1985	weeksInTop40	NA	Careless Whisper	Wham!	300
+1985	weeksInTop10	NA	Say You, Say Me	Lionel Richie	239
+1986	weeksInTop100	27	Something About You	Level 42	228
+1986	weeksInTop40	17	That's What Friends Are For	Dionne & Friends	254
+1986	weeksInTop10	10	That's What Friends Are For	Dionne & Friends	254
+1987	weeksInTop100	30	In My Dreams	REO Speedwagon	260
+1987	weeksInTop40	16	Shake You Down	Gregory Abbott	244
+1987	weeksInTop10	9	Faith	George Michael	194
+1988	weeksInTop100	30	I'll Always Love You	Taylor Dayne	258
+1988	weeksInTop40	17	Need You Tonight	INXS	181
+1988	weeksInTop10	8	Every Rose Has Its Thorn	Poison	260
+1989	weeksInTop100	39	Bust A Move	Young M.C.	260
+1989	weeksInTop40	20	Bust A Move	Young M.C.	260
+1989	weeksInTop10	10	Another Day In Paradise	Phil Collins	284
+1990	weeksInTop100	30	Close To You	Maxi Priest	235
+1990	weeksInTop40	19	From A Distance	Bette Midler	275
+1990	weeksInTop10	10	Because I Love You (The Postman Song)	Stevie B	255
+1991	weeksInTop100	29	High Enough	Damn Yankees	250
+1991	weeksInTop40	20	Emotions	Mariah Carey	249
+1991	weeksInTop10	11	(Everything I Do) I Do It For You	Bryan Adams	243
+1992	weeksInTop100	37	Just Another Day	Jon Secada	251
+1992	weeksInTop40	NA	Just Another Day	Jon Secada	251
+1992	weeksInTop10	NA	End Of The Road	Boyz II Men	350
+1993	weeksInTop100	45	Whoomp! There It Is	Tag Team	267
+1993	weeksInTop40	NA	Whoomp! There It Is	Tag Team	267
+1993	weeksInTop10	NA	Whoomp! There It Is	Tag Team	267
+1994	weeksInTop100	45	Another Night	Real McCoy	233
+1994	weeksInTop40	NA	Another Night	Real McCoy	233
+1994	weeksInTop10	NA	Another Night	Real McCoy	233
+1995	weeksInTop100	49	Run-Around	Blues Traveler	252
+1995	weeksInTop40	NA	Gangsta's Paradise	Coolio	240
+1995	weeksInTop10	NA	Gangsta's Paradise	Coolio	240
+1996	weeksInTop100	60	Macarena (Bayside Boys Mix)	Los Del Rio	234
+1996	weeksInTop40	NA	You're Makin' Me High	Toni Braxton	269
+1996	weeksInTop10	NA	Un-Break My Heart	Toni Braxton	264
+1997	weeksInTop100	69	How Do I Live	LeAnn Rimes	258
+1997	weeksInTop40	NA	How Do I Live	LeAnn Rimes	258
+1997	weeksInTop10	NA	How Do I Live	LeAnn Rimes	258
+1998	weeksInTop100	56	I Don't Want To Wait	Paula Cole	247
+1998	weeksInTop40	52	Truly Madly Deeply	Savage Garden	279
+1998	weeksInTop10	26	Truly Madly Deeply	Savage Garden	279
+1999	weeksInTop100	58	Smooth	Santana	244
+1999	weeksInTop40	50	Smooth	Santana	244
+1999	weeksInTop10	30	Smooth	Santana	244
+2000	weeksInTop100	57	Higher	Creed	316
+2000	weeksInTop40	43	Amazed	Lonestar	265
+2000	weeksInTop10	19	Everything You Want	Vertical Horizon	241
+2001	weeksInTop100	56	The Way You Love Me	Faith Hill	186
+2001	weeksInTop40	45	Hanging By A Moment	Lifehouse	213
+2001	weeksInTop10	23	How You Remind Me	Nickelback	223
+2002	weeksInTop100	45	Wherever You Will Go	Calling, The	208
+2002	weeksInTop40	40	Wherever You Will Go	Calling, The	208
+2002	weeksInTop10	19	Dilemma	Nelly	287
+2003	weeksInTop100	54	Unwell	matchbox twenty	228
+2003	weeksInTop40	42	Here Without You	3 Doors Down	238
+2003	weeksInTop10	17	Hey Ya!	OutKast	249
+2004	weeksInTop100	50	Someday	Nickelback	207
+2004	weeksInTop40	41	Yeah!	Usher	250
+2004	weeksInTop10	24	Yeah!	Usher	250
+2005	weeksInTop100	62	You And Me	Lifehouse	195
+2005	weeksInTop40	44	You And Me	Lifehouse	195
+2005	weeksInTop10	23	We Belong Together	Mariah Carey	201
+2006	weeksInTop100	58	How To Save A Life	Fray, The	261
+2006	weeksInTop40	36	How To Save A Life	Fray, The	261
+2006	weeksInTop10	19	How To Save A Life	Fray, The	261
+2007	weeksInTop100	64	Before He Cheats	Carrie Underwood	200
+2007	weeksInTop40	53	Before He Cheats	Carrie Underwood	200
+2007	weeksInTop10	25	Apologize	Timbaland	184
+2008	weeksInTop100	76	I'm Yours	Jason Mraz	243
+2008	weeksInTop40	62	I'm Yours	Jason Mraz	243
+2008	weeksInTop10	23	Low	Flo Rida	232
+2009	weeksInTop100	57	Use Somebody	Kings Of Leon	230
+2009	weeksInTop40	47	I Gotta Feeling	Black Eyed Peas, The	289
+2009	weeksInTop10	24	Down	Jay Sean	212
+2010	weeksInTop100	60	Need You Now	Lady Antebellum	237
+2010	weeksInTop40	50	Need You Now	Lady Antebellum	237
+2010	weeksInTop10	22	Just The Way You Are	Bruno Mars	220
+2011	weeksInTop100	68	Party Rock Anthem	LMFAO	263
+2011	weeksInTop40	53	Rolling In The Deep	Adele	228
+2011	weeksInTop10	29	Party Rock Anthem	LMFAO	263
+2012	weeksInTop100	62	Ho Hey	Lumineers, The	163
+2012	weeksInTop40	44	Somebody That I Used To Know	Gotye	244
+2012	weeksInTop10	24	Somebody That I Used To Know	Gotye	244
+2013	weeksInTop100	55	Radioactive	Imagine Dragons	187
+2013	weeksInTop40	41	Thrift Shop	Macklemore	235
+2013	weeksInTop10	21	Thrift Shop	Macklemore	235

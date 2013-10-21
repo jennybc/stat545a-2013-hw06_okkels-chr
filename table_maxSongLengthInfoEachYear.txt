@@ -1,0 +1,65 @@
+Year	Track	Artist	TimeInSeconds	Time
+1950	Bewitched	Gordon Jenkins & His Orchestra	213	3:33
+1951	What is a Boy?	Jan Peerce	246	4:06
+1952	It's In The Book (Part 1 & 2)	Johnny Standley	367	6:07
+1953	Christmas Dragnet	Stan Freberg	405	6:45
+1954	Oh, That'll be Joyful	Four Lads	155	2:35
+1955	Number One Street (Sides 1 & 2)	Bob Corley	370	6:10
+1956	Honky Tonk (Parts 1 & 2)	Bill Doggett	335	5:35
+1957	Wun'erful, Wun'erful (Side uh-one)	Stan Freberg	220	3:40
+1958	Green Chri$tma$	Stan Freberg	410	6:50
+1959	I Loves You, Porgy	Nina Simone	249	4:09
+1960	Mack The Knife	Ella Fitzgerald	282	4:42
+1961	The Astronaut (Parts 1 And 2)	Jose Jimenez	495	8:15
+1962	Midnight Special, Part 1	Jimmy Smith	354	5:54
+1963	I Can't Stop Loving You	Count Basie	271	4:31
+1964	People	Barbra Streisand	219	3:39
+1965	Like A Rolling Stone	Bob Dylan	360	6:00
+1966	Day For Decision	Johnny Sea	333	5:33
+1967	Danny Boy	Ray Price	298	4:58
+1968	MacArthur Park	Richard Harris	440	7:20
+1969	The Minotaur	Dick Hyman	444	7:24
+1970	Isn't It A Pity	George Harrison	413	6:53
+1971	They Can't Take Away Our Music	Eric Burdon and War	410	6:50
+1972	American Pie (Parts 1 and 2)	Don McLean	516	8:36
+1973	Give It To Me	J. Geils Band, The	391	6:31
+1974	Door To Your Heart	Dramatics, The	390	6:30
+1975	(How I Spent My Summer Vacation) or A Day at The Beach with Pedro And Man	Cheech & Chong	444	7:24
+1976	A Better Place To Be (Live) (Parts 1 & 2)	Harry Chapin	570	9:30
+1977	The Killing Of Georgie (Part 1 and 2)	Rod Stewart	391	6:31
+1978	Paradise By The Dashboard Light	Meat Loaf	475	7:55
+1979	In The Midnight Hour	Samantha Sang	437	7:17
+1980	Sequel	Harry Chapin	396	6:36
+1981	Rapture	Blondie	393	6:33
+1982	The Visitors	ABBA	347	5:47
+1983	Mama	Genesis	367	6:07
+1984	Left In The Dark	Barbra Streisand	372	6:12
+1985	We Are The World	USA for Africa	382	6:22
+1986	In Your Eyes	Peter Gabriel	375	6:15
+1987	Don't Give Up	Peter Gabriel	352	5:52
+1988	Broken Land	Adventures, The	361	6:01
+1989	One	Metallica	444	7:24
+1990	The Secret Garden (Sweet Seduction Suite)	Quincy Jones	400	6:40
+1991	Everybody Move	Cathy Dennis	489	8:09
+1992	November Rain	Guns N' Roses	536	8:56
+1993	Whoot, There It Is 	95 South	423	7:03
+1994	El Trago (The Drink)	2 In A Room	392	6:32
+1995	Sympathy For The Devil	Guns N' Roses	455	7:35
+1996	Jesus To A Child	George Michael	410	6:50
+1997	The Perfect Drug	Nine Inch Nails	443	7:23
+1998	The Unforgiven II	Metallica	392	6:32
+1999	Everybody's Free (To Wear Sunscreen) The Speech Song	Baz Luhrmann	429	7:09
+2000	Auld Lang Syne (The Millenium Mix)	Kenny G	470	7:50
+2001	I'll Fly With You (L'Amour Toujours)	Gigi D'Agostino	415	6:55
+2002	Gotta Get Thru This	Daniel Bedingfield	370	6:10
+2003	Breathe	Telepopmusik	468	7:48
+2004	Something Happened On The Way To Heaven	Deborah Cox	394	6:34
+2005	God's Will	Martina McBride	349	5:49
+2006	Hate Me	Blue October	380	6:20
+2007	What Goes Around…Comes Around	Justin Timberlake	448	7:28
+2008	I Will Possess Your Heart	Death Cab For Cutie	515	8:35
+2009	Beautiful	Eminem	392	6:32
+2010	We Are The World 25: For Haiti	Artists For Haiti	416	6:56
+2011	Far Away	Marsha Ambrosius	436	7:16
+2012	Raise Your Weapon	deadmau5	502	8:22
+2013	Mirrors	Justin Timberlake	484	8:04
