@@ -41,13 +41,13 @@ endYear <- max(charts$Year)   # final year (used for plotting x-range).
   # xyplot:
 songLengthVsYear_xyPlot <- xyplot(Time.num ~ Year, charts, 
        main = "Song length vs. year", xlab = "Year", ylab = "Song length (seconds)", grid = TRUE,
-       type = c("p", "a"), col.line = "darkorange", lwd = 3,  # draw orange line through averages.
        scales = list(y = list(at = seq(0, 600, 30)),
                      x = list(at = seq(startYear, endYear, 5))),
+       type = c("p", "a"), col.line = "darkorange", lwd = 3,  # draw orange line through averages.
        alpha = 0.5) # combat overplotting via alpha.
   # print to screen, then write to file:
 print(songLengthVsYear_xyPlot)
-pdf("plot_songLengthVsYear_xyPlot.pdf")
+postscript("plot_songLengthVsYear_xyPlot.ps")
 print(songLengthVsYear_xyPlot)
 dev.off()
   # xyplot with smoothScatter:
