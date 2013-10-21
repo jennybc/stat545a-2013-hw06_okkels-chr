@@ -19,7 +19,8 @@ outputs <- c("charts_clean.tsv",                      # from data_cleanPrepare.R
              "table_maxScorePointsEachYear.txt",
              "table_longestChartingSongsEachYear.txt",
              list.files(pattern = "*.pdf$"),    # all .pdf files (plots)
-             list.files(pattern = "*.png$"))    # all .png files (plots)
+             list.files(pattern = "*.png$"),    # all .png files (plots)
+             list.files(pattern = "*.ps$"))     # all .ps files (plots)
 file.remove(outputs)
 
 # Good ways to clean up data table files and plots with my naming convention:
