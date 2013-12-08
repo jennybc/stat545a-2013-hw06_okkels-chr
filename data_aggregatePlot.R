@@ -19,6 +19,8 @@ library(xtable)
 source("func_timeToSec.R")
 source("func_htmlPrint.R")
 
+## JB needs this to eliminate errors about invalid locale
+Sys.setlocale('LC_ALL','C') 
 
 ## Load cleaned data:
 charts <- read.delim("charts_clean.tsv")
@@ -47,7 +49,8 @@ songLengthVsYear_xyPlot <- xyplot(Time.num ~ Year, charts,
        alpha = 0.5) # combat overplotting via alpha.
   # print to screen, then write to file:
 print(songLengthVsYear_xyPlot)
-postscript("plot_songLengthVsYear_xyPlot.ps")
+#postscript("plot_songLengthVsYear_xyPlot.ps")
+pdf("plot_songLengthVsYear_xyPlot.pdf")
 print(songLengthVsYear_xyPlot)
 dev.off()
   # xyplot with smoothScatter:
